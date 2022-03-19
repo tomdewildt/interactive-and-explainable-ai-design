@@ -1,7 +1,7 @@
 interpret==0.2.7
 ipywidgets==7.6.5
 jupyterlab==3.3.2
-jupyterlab-widgets==1.0.2
+jupyterlab-widgets==1.1.0
 lightgbm==3.3.2
 lime==0.2.0.1
 nlp==0.4.0
