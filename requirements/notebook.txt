@@ -1,5 +1,5 @@
 interpret==0.2.7
-ipywidgets==7.6.5
+ipywidgets==7.7.0
 jupyterlab==3.3.2
 jupyterlab-widgets==1.0.2
 lightgbm==3.3.2
