@@ -212,12 +212,5 @@ $RECYCLE.BIN/
 *.lnk
 
 ### Custom ###
-# Assignment notebooks
-assignments/
-
-# Lab output
-labs/lab7
-labs/mnist_tuning
-
 # Scratch notebook
 notebooks/scratch.ipynb
